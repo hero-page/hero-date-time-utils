@@ -1,0 +1,23 @@
+{
+  "name": "@hero-page/hero-date-time-utils",
+  "version": "1.0.0",
+  "description": "A collection of functions for handling dates and times, such as formatting, calculating differences, converting to different time zones, and more.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests.js"
+  },
+  "repository": {},
+  "keywords": [
+    "date",
+    "time",
+    "formatting",
+    "calculating",
+    "converting",
+    "time zones",
+    "datetime",
+    "utils"
+  ],
+  "author": "Sam Chahine",
+  "license": "MIT",
+  "dependencies": {}
+}

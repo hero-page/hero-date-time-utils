@@ -1,0 +1,21 @@
+const {testAddTime} = require('./tests/addTime.js');
+const {testCalculateDifference} = require('./tests/calculateDifference.js');
+const {testConvertTimeZone} = require('./tests/convertTimeZone.js');
+const {testDaysInMonth} = require('./tests/daysInMonth.js');
+const {testEndOfDay} = require('./tests/endOfDay.js');
+const {testFormatDate} = require('./tests/formatDate.js');
+const {testGetDateFromUnix} = require('./tests/getDateFromUnix.js');
+const {testGetUnixTimestamp} = require('./tests/getUnixTimestamp.js');
+const {testIsLeapYear} = require('./tests/isLeapYear.js');
+const {testStartOfDay} = require('./tests/startOfDay.js');
+
+testAddTime();
+testCalculateDifference();
+testConvertTimeZone();
+testDaysInMonth();
+testEndOfDay();
+testFormatDate();
+testGetDateFromUnix();
+testGetUnixTimestamp();
+testIsLeapYear();
+testStartOfDay();
